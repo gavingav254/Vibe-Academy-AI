@@ -1,0 +1,30 @@
+class AppStrings {
+  static const String appName = 'VibeAcademy AI';
+  static const String loginTitle = 'Welcome Back';
+  static const String loginSubtitle = 'Sign in to continue learning';
+  static const String email = 'Email';
+  static const String password = 'Password';
+  static const String signIn = 'Sign In';
+  static const String signUp = 'Sign Up';
+  static const String fullName = 'Full Name';
+  static const String homeTitle = 'Welcome to VibeAcademy AI';
+  static const String homeSubtitle = 'Your personalized AI-powered learning platform';
+  static const String exploreCoursesTitle = 'Featured Courses';
+  static const String computerScience = 'Computer Science';
+  static const String it = 'Information Technology';
+  static const String cybersecurity = 'Cybersecurity';
+  static const String business = 'Business';
+  static const String tourism = 'Tourism';
+  static const String mediaComm = 'Media & Communication';
+  static const String home = 'Home';
+  static const String courses = 'Courses';
+  static const String profile = 'Profile';
+  static const String logout = 'Logout';
+  static const String cancel = 'Cancel';
+  static const String noDataFound = 'No data found';
+  static const String searchCourses = 'Search courses...';
+  static const String invalidEmail = 'Invalid email address';
+  static const String passwordTooShort = 'Password must be at least 6 characters';
+  static const String loginSuccess = 'Login successful!';
+  static const String signupSuccess = 'Account created successfully!';
+}
